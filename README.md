@@ -40,7 +40,6 @@
 | [MicroserviceDemo](https://github.com/heshengli/MicroserviceDemo) | 基于 **ABP VNext** 的微服务实践：网关 / 服务发现 / 消息队列 / 缓存一整套跑通，含 docker-compose、K8s 与 ELK 日志方案 |
 | [NanoFabric-Core3.1](https://github.com/heshengli/NanoFabric-Core3.1) | 微服务基础设施探索：Core 3.1 升级与调试记录 |
 | [BlazorServerTest-IAsyncDisposable-GC](https://github.com/heshengli/BlazorServerTest-IAsyncDisposable-GC) | Blazor Server 内存回收（`IAsyncDisposable`）问题复现与验证 |
-| [AntdMangement](https://github.com/heshengli/AntdMangement) | Blazor + Ant Design 后台管理系统实践 |
 
 ## 技术栈
 
